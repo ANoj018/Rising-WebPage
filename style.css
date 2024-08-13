@@ -53,23 +53,23 @@ body {
 
 @keyframes backgroundSlide {
     0%, 20% {
-        background-image: url('a.jpg');
+        background-image: url('Project/a.jpg');
     }
 
     20.1%, 42% {
-        background-image: url('pic.jpg');
+        background-image: url('Project/pic.jpg');
     }
 
     42.1%, 66% {
-        background-image: url('Third.jpg');
+        background-image: url('Project/Third.jpg');
     }
 
     66.1%, 84% {
-        background-image: url(ev1.jpg);
+        background-image: url(Project/ev1.jpg);
     }
 
     84.1%, 100% {
-        background-image: url(eveee.jpg);
+        background-image: url(Project/eveee.jpg);
     }
 }
 
